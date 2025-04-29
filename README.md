@@ -1,5 +1,5 @@
-# Awesome-Time-Series-Paper
-🥰 Some Awesome Time Series Paper for Time Series Analysis.
+# Awesome-Time-Series-Papers
+🥰 Some Awesome Time Series Papers for Time Series Analysis.
 
 
 
